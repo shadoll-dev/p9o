@@ -2,6 +2,8 @@
 
 A minimalist single-page site featuring the timeless phrase "Omnia possibilia tempore et opibus" (All things are possible with time and resources) displayed in multiple languages.
 
+Live site: https://p9o.uk
+
 ## Features
 
 - **Multi-language Support**: The phrase is displayed in multiple languages including Latin, English, Ukrainian, German, Spanish, and French.
